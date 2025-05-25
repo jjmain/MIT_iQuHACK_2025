@@ -1,3 +1,5 @@
+This repository was originally hosted on @jameslol417 GitHub as part of a team project. As a contributing member of the team, I uploaded it here for personal portfolio and archiving purposes.
+
 # Quantum Rings Challenge - iQuHack 2025
 
 ## Overview
